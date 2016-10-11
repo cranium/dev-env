@@ -16,3 +16,7 @@ My personal development environment
 `sudo apt-get install terminator`
 
 `sudo apt-get install i3wm`
+
+## Jetbrains Editor Theme
+
+[Solarized Dark](https://github.com/jkaving/intellij-colors-solarized)
